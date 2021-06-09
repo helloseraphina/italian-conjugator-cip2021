@@ -15,14 +15,6 @@ Possible future directions:
 import os
 import csv
 
-# ask user input for regular verb in infinite form
-# program scan to see if it is in csv of irregular verbs. if so, take conjugations from there. 
-# else
-# program reads last three letters of input (are/ere/ire)
-# program prints 1st - 3rd singular , 1st - 3rd plural options
-# if there's already an i in the root end don't put another in 2nd singular and 1st plural
-
-
 def main():
     
     """
